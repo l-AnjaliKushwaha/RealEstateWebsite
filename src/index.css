@@ -69,21 +69,21 @@ a {
   align-items: flex-end;
 } */
 
-/* .primaryText {
+.primaryText {
   color: #1f3e72;
   font-weight: bold;
   font-size: 2rem;
-} */
+}
 
 .secondaryText {
   color: rgb(140 139 139);
   font-size: 0.9rem;
 }
-/* .orangeText {
+.orangeText {
   color: orange;
   font-size: 1.5rem;
   font-weight: 600;
-} */
+}
 
 /* media queries */
 /* @media (min-width: 1536px) {
