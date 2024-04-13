@@ -6,11 +6,11 @@
 }
 .c-right {
   width: 100%;
-  margin-right: 3rem;
+  /* margin-right: 3rem; */
 }
 .c-left {
   gap: 0.5rem;
-  margin-left: 3rem;
+  /* margin-left: 3rem; */
 }
 .contactModes {
   margin-top: 2rem;

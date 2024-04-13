@@ -6,10 +6,10 @@
 }
 .v-right {
   gap: 0.5rem;
-  margin-right: 3rem;
+  /* margin-right: 3rem; */
 }
 .v-left{
-  margin-left: 3rem;
+  /* margin-left: 3rem; */
 }
 .accordion {
   margin-top: 2rem;
