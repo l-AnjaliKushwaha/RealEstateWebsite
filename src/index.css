@@ -38,17 +38,17 @@ a {
   align-items: center;
   flex-wrap: wrap;
 }
-/* .flexStart {
+.flexStart {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-} */
+}
 
-/* .flexEnd {
+.flexEnd {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-} */
+}
 
 .flexColCenter {
   display: flex;
@@ -62,12 +62,12 @@ a {
   justify-content: center;
   align-items: flex-start;
 }
-/* .flexColEnd {
+.flexColEnd {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-end;
-} */
+}
 
 .primaryText {
   color: #1f3e72;
