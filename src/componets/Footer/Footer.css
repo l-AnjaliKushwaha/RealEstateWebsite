@@ -10,7 +10,7 @@
     margin-top: 1.5rem;
     font-weight: 500;
 }
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
     .f-container{
         justify-content: center;
     }
@@ -21,4 +21,4 @@
     .f-right{
         justify-content: center;
     }
-} */
+}

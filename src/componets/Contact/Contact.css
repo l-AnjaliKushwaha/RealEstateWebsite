@@ -4,13 +4,11 @@
 .c-container > div {
   flex: 1;
 }
-.c-right {
+/* .c-right {
   width: 100%;
-  /* margin-right: 3rem; */
-}
+} */
 .c-left {
   gap: 0.5rem;
-  /* margin-left: 3rem; */
 }
 .contactModes {
   margin-top: 2rem;
@@ -75,3 +73,4 @@
         width: 100%;
     }
 }
+
